@@ -3953,7 +3953,7 @@ input[type="button"].btn-block {
   display: block;
 }
 
-.navbar {
+. {
   position: relative;
   display: flex;
   flex-wrap: wrap;
@@ -3962,15 +3962,15 @@ input[type="button"].btn-block {
   padding: 0.5rem 1rem;
 }
 
-.navbar > .container,
-.navbar > .container-fluid {
+. > .container,
+. > .container-fluid {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
 }
 
-.navbar-brand {
+.-brand {
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
@@ -3980,7 +3980,7 @@ input[type="button"].btn-block {
   white-space: nowrap;
 }
 
-.navbar-brand:hover, .navbar-brand:focus {
+.-brand:hover, .2c350-brand:focus {
   text-decoration: none;
 }
 
@@ -9662,7 +9662,7 @@ font-family: 'Krub', sans-serif;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #1abc9c;
+  color: #98f1df;
 }
 
 #mainNav .navbar-toggler {
@@ -9695,7 +9695,7 @@ font-family: 'Krub', sans-serif;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
   }
-  #mainNav.navbar-shrink .navbar-brand {
+  #mainNav.navbar-shrink .-brand {
     font-size: 1.5em;
   }
 }
@@ -9840,7 +9840,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background-color: #50;
   color: #fff;
 }
 
